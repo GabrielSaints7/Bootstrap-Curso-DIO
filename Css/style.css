@@ -1,5 +1,6 @@
 body{
     background-color: grey;
+    font: 20px arial serif;
 }
 
 .navbar{
@@ -7,7 +8,8 @@ body{
 }
 
 .quem-somos{
-    background-color:red;
+    color: white;
+    background-color:rgb(216, 0, 0);
 }
 
 .brand-icon-nav{
@@ -15,3 +17,32 @@ body{
 
 }
 
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.img-logo{
+    padding-left: 10px;
+}
+
+.parceiros1{
+    background-color: rgb(0, 122, 236);
+    color: white;
+}
+
+.nav-item{
+    min-width:fit-content;
+    padding-left: 40px;
+}
+
+.servicos{
+    background-color: rgb(255, 102, 0);
+}
+
+.bg-footer{
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
